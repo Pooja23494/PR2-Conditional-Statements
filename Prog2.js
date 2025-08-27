@@ -20,9 +20,9 @@ amt = P + SI;
 
 console.log('Simple Interest');
 console.log('-----------------');
-console.log(`Principle Amount : ${P}`);
+console.log(`Principle Amount : ₹ ${P}`);
 console.log(`Rate of interest : ${R} %`);
-console.log(`Time period : ${T}`);
-console.log(`Simple Interest : ${SI}`);
+console.log(`Time period : ${T} years`);
+console.log(`Simple Interest : ₹ ${SI}`);
 console.log('-----------------');
-console.log(`Mutual Amount : ${amt}`);
+console.log(`Mutual Amount : ₹ ${amt}`);

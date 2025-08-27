@@ -9,10 +9,10 @@
 
 ### Simple Interest
 
-![interest](<Screenshot 2025-08-27 221754.png>)
-![interest](<Screenshot 2025-08-27 221643.png>)
+![interest](<Screenshot 2025-08-27 223732.png>)
+![interest](<Screenshot 2025-08-27 223644.png>)
 
 ### Invoice
 
-![invoice](<Screenshot 2025-08-27 221843.png>)
-![invoice](<Screenshot 2025-08-27 221815.png>)
+![invoice](<Screenshot 2025-08-27 223804.png>)
+![invoice](<Screenshot 2025-08-27 223701.png>)
